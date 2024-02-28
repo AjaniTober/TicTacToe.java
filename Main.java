@@ -18,7 +18,7 @@ public class Main {
             game.board.displayBoard();
             game.board.winner();
             System.out.print(game.board.winner());
-            System.out.println("\n Would you like to play again?");
+            System.out.println("\nWould you like to play again?");
             continuePlaying = scanner.next();
             if (continuePlaying.equals("yes")){
                 game.newGame();
