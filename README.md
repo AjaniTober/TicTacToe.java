@@ -7,6 +7,9 @@ The game board is a 3x3 grid, and each cell is identified by a unique number fro
 Players take turns to place their symbol (X or O) on the board.
 The first player to achieve a row, column, or diagonal with three of their symbols wins.
 If the board is filled without a winner, the game ends in a draw.
+Player Symbols
+X is represented by the color red.
+O is represented by the color blue.
 How to Play
 Input the number corresponding to the square where you want to place your symbol.
 
